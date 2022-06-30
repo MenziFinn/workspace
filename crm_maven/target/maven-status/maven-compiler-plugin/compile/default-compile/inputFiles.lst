@@ -1,7 +1,7 @@
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/business/ICustomer.java
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/persistence/CustomerDataAccessMock.java
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/persistence/CustomerDAOFactory.java
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/business/AbstractCustomer.java
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/persistence/ICustomerDAO.java
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/business/BCCustomer.java
-/Users/finnmenzi/Documents/workspace/crm_maven/src/main/java/ch/ilv/crm/business/CustomerFactory.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\business\ICustomer.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\persistence\CustomerDataAccessMock.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\persistence\CustomerDAOFactory.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\business\AbstractCustomer.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\business\BCCustomer.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\business\CustomerFactory.java
+C:\Users\enea\Desktop\Dev\workspace_M154_fallstudie\crm_maven\src\main\java\ch\ilv\crm\persistence\ICustomerDAO.java

@@ -24,7 +24,6 @@ public class CustomerDataAccessMock implements ICustomerDAO {
 	/**
 	 * @param customer The customer is the Data of an customer, saved in a String-Array
 	 */
-	
 	public void insertCustomer(String[] customer) {
 		if(insertCount < 10){
 			customerList[insertCount] = customer;
@@ -35,7 +34,6 @@ public class CustomerDataAccessMock implements ICustomerDAO {
 	/**
 	 * @param customerId The customerId ist the ID of the wanted Customer
 	 */
-	
 	public String[] selectCustomer(int customerId) {
 		if(customerId < insertCount){
 			return customerList[customerId];	
